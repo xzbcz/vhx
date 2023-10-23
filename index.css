@@ -1,0 +1,359 @@
+@font-face {
+  font-family: clash;
+  src: url(./clash.ttf);
+}
+
+.embed-container {
+  box-shadow: 0 0 60px rgba(253, 208, 28, 0.1), 0 0 20px rgba(253, 208, 28, 0.1);
+  backdrop-filter: blur(40px) brightness(0.5);
+  border: 1px solid #fdd01c50;
+  background-color: #fdd01c05;
+}
+
+.embed-container *,
+.embed-container p,
+.embed-container span,
+.embed-container button,
+.embed-container input,
+.embed-container label,
+.embed-container .large.primary.withIcon.withIconRight.button {
+  font-family: "clash" !important;
+}
+
+.embed-product-card {
+  /* border: 1px solid #fdd01c50 !important; */
+  border-radius: 10px 10px 0 0 !important;
+}
+
+.embed-header-price {
+  color: #fdd01c !important;
+}
+
+.embed-calculation-item.total span:nth-of-type(2) {
+  color: #fdd01c !important;
+}
+
+.embed-header {
+  /* box-shadow: 0 0 40px rgba(253, 208, 28, 0.1), 0 0 10px rgba(253, 208, 28, 0.1) !important; */
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c05 !important;
+}
+
+.embed-line {
+  border-top-color: #fdd01c80 !important;
+}
+
+.embed-counter {
+  /* box-shadow: 0 0 40px rgba(253, 208, 28, 0.1), 0 0 10px rgba(253, 208, 28, 0.1) !important; */
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c04 !important;
+}
+
+.sellix-input {
+  /* box-shadow: 0 0 40px rgba(253, 208, 28, 0.1), 0 0 10px rgba(253, 208, 28, 0.1) !important; */
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c05 !important;
+  color: #dcdcdc !important;
+}
+
+.sellix-input.is-invalid {
+  border: 1px solid #fdd01c !important;
+}
+
+.embed.invalid-feedback,
+.text-left.invalid-feedback {
+  color: #fdd01c !important;
+}
+
+.sellix-input:hover {
+  border: 1px solid #fdd01c90 !important;
+}
+
+.embed-coupon-input input {
+  /* box-shadow: 0 0 40px rgba(253, 208, 28, 0.1), 0 0 10px rgba(253, 208, 28, 0.1) !important; */
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c05 !important;
+  color: #dcdcdc !important;
+}
+
+.embed-coupon-input:hover input {
+  border: 1px solid #fdd01c90 !important;
+}
+
+.embed-coupon-input input:focus {
+  border: 1px solid #fdd01c90 !important;
+}
+
+.embed-coupon-input button {
+  /* box-shadow: 0 0 40px rgba(253, 208, 28, 0.1), 0 0 10px rgba(253, 208, 28, 0.1) !important; */
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c10 !important;
+}
+
+.embed-coupon-input button svg {
+  color: #fdd01c !important;
+}
+
+.embed-coupon-input button:disabled svg {
+  color: #fdd01c !important;
+}
+
+.embed-coupon-input button:disabled {
+  background-color: #fdd01c10 !important;
+}
+
+.large.primary.withIcon.withIconRight {
+  /* box-shadow: 0 0 40px rgba(253, 208, 28, 0.1), 0 0 10px rgba(253, 208, 28, 0.1) !important; */
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c10 !important;
+  color: #fdd01c;
+}
+
+.embed-footer {
+  /* box-shadow: 0 0 60px rgba(253, 208, 28, 0.1), 0 0 20px rgba(253, 208, 28, 0.1); */
+  backdrop-filter: blur(40px) brightness(0.5);
+  border-top: 1px solid #fdd01c50;
+  background-color: #fdd01c05;
+  /* border-top: none !important; */
+}
+
+.embed-container:has(.embed-back) .embed-product-card {
+  border-radius: 0 !important;
+}
+
+.embed-back {
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border-bottom: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c10 !important;
+  color: #dcdcdc;
+}
+
+.embed-back .icon-back * {
+  stroke: #fdd01c !important;
+}
+
+.gateway-list-item {
+  backdrop-filter: blur(20px) !important;
+  background-color: rgba(16, 24, 35, 0.1) !important;
+  border: 1px solid #fdd01c50 !important;
+}
+
+.gateway-list-item:active {
+  background-color: #fdd01c20 !important;
+}
+
+.gateway-list-item.active {
+  background-color: #fdd01c20 !important;
+}
+
+.embed-buttons-wrapper button:disabled {
+  background-color: #fdd01c20 !important;
+}
+
+button.large.primary {
+  background-color: #fdd01c80 !important;
+  color: white;
+}
+
+button.large.primary:hover {
+  background-color: #fdd01c90 !important;
+}
+
+button.primary:disabled {
+  background-color: #fdd01c80 !important;
+}
+
+.embed-header-title {
+  color: #dcdcdc !important;
+}
+
+.embed-counter-input {
+  color: #dcdcdc !important;
+}
+
+.d-flex.align-items-center.cursor-pointer {
+  color: #dcdcdc80 !important;
+}
+
+.d-flex.align-items-center.cursor-pointer svg {
+  fill: #dcdcdc80 !important;
+  stroke: #dcdcdc80 !important;
+}
+
+.embed-calculation-item {
+  color: #dcdcdc80 !important;
+}
+
+.embed-calculation-item {
+  color: #dcdcdc80 !important;
+}
+
+.embed-calculation-item span {
+  color: #dcdcdc80 !important;
+}
+
+.embed-info-container {
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border-bottom: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c05 !important;
+  border: 1px solid #fdd01c50 !important;
+}
+
+.embed-info-header {
+  background-color: none !important;
+  border-bottom: 1px solid #fdd01c80 !important;
+}
+
+.embed-info-header-title {
+  color: #dcdcdc !important;
+}
+
+.embed-info-text.selectable.sellix-text a {
+  color: #fdd01c80 !important;
+}
+
+.embed-info-description,
+.embed-info-description:nth-child(1),
+.embed-info-description div,
+.embed-info-description b {
+  color: #dcdcdc !important;
+}
+
+.embed-info-text div:nth-of-type(2) {
+  color: #dcdcdc80 !important;
+}
+
+.embed-coupon-input-loader {
+  fill: #fdd01c80 !important;
+  stroke: #fdd01c80 !important;
+  color: #fdd01c80 !important;
+  filter: brightness(0) invert(1) !important;
+}
+
+.gateway-title,
+.gateway-list,
+.gateway-list-item,
+.gateway-list-item div {
+  color: #dcdcdc !important;
+}
+
+.embed-gateway-title.unselectable,
+.gateway-subtitle {
+  color: #dcdcdc80 !important;
+}
+
+.gateway-list-item.active {
+  background-color: #fdd01c20 !important;
+}
+
+.sellix-label span {
+  stroke: #fdd01c80 !important;
+}
+
+.switcher-slider {
+  background-color: #fdd01c05 !important;
+  border: 1px solid #fdd01c50 !important;
+}
+
+.sellix-label span {
+  color: #fdd01c80 !important;
+}
+
+.react-tooltip {
+  border: 1px solid #fdd01c50 !important;
+  background-color: #fdd01c10 !important;
+  border: 1px solid #fdd01c50 !important;
+}
+
+.react-tooltip-arrow {
+  display: none;
+}
+
+.embed-header-title svg path {
+  stroke: #fdd01c;
+}
+
+.embed-footer svg path {
+  fill: #fdd01c50;
+  stroke: #fdd01c;
+}
+
+.tos-note-container .switcher .switcher-slider:before {
+  background-color: #fdd01c;
+  border: none;
+  transform: translateY(-1.5px);
+}
+
+.tos-note-container .switcher input:checked ~ .switcher-slider::before {
+  transform: translate(12px, -1.5px);
+}
+
+.sellix-input.is-invalid {
+  border: 1px solid #fdd01c !important;
+}
+
+.default-mode-address {
+  background-color: #fdd01c10 !important;
+}
+
+.default-mode-address > svg > path,
+.default-mode-address > p,
+.default-mode-address > span,
+.default-mode-address > * {
+  stroke: #fdd01c;
+  color: #fdd01c;
+}
+
+.embed-track {
+  box-shadow: 0 0 60px rgba(253, 208, 28, 0.1), 0 0 20px rgba(253, 208, 28, 0.1) !important;
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  font-family: "clash" !important;
+}
+
+.embed-track-body {
+  background-color: transparent !important;
+}
+
+.embed-info-header {
+  background-color: #fdd01c10 !important;
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+}
+
+.embed-invoice-details-main-timer {
+  background-color: #fdd01c05 !important;
+}
+
+.default-mode-container {
+  background-color: transparent;
+}
+
+.embed-close svg {
+  display: none;
+}
+
+.lds-ellipsis > div {
+  background: #fdd01c !important;
+}
+
+.update-gateway-modal-wrapper {
+  background-color: #fdd01c05 !important;
+  backdrop-filter: blur(40px) brightness(0.5) !important;
+  border: 1px solid #fdd01c50 !important;
+  border-radius: 5px;
+}
+
+.update-gateway-modal-wrapper > svg > path {
+  stroke: #fdd01c;
+}
+
+.large.secondary.close.button {
+  background-color: #fdd01c05 !important;
+  border: 1px solid #fdd01c50 !important;
+}
