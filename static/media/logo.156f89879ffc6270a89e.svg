@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4000" height="4000" viewBox="0 0 4000 4000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: #fdd01c;
+      }
+    </style>
+  </defs>
+  <path id="favicon" class="cls-1" d="M122,363L2007,3636,3878,363,2110,1388l249,146,843-488-473,814Zm706,705,463,793,352-209,255,151-479,283,588,1025,593-1025Z"/>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  id="b"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 47.09 25.14"
+>
+  <defs>
+    <linearGradient
+      id="f"
+      x1="9.67"
+      y1="19.76"
+      x2="9.67"
+      y2="2.6"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0" stop-color="#857004" />
+      <stop offset=".11" stop-color="#9f8409" />
+      <stop offset=".28" stop-color="#c09f0f" />
+      <stop offset=".45" stop-color="#dbb415" />
+      <stop offset=".62" stop-color="#eec419" />
+      <stop offset=".81" stop-color="#f9cd1b" />
+      <stop offset="1" stop-color="#fdd01c" />
+    </linearGradient>
+    <linearGradient
+      id="g"
+      x1="23.55"
+      y1="24.6"
+      x2="23.55"
+      y2=".29"
+      xlink:href="#f"
+    />
+    <linearGradient
+      id="h"
+      x1="37.42"
+      y1="19.75"
+      x2="37.42"
+      y2="2.58"
+      xlink:href="#f"
+    />
+  </defs>
+  <g id="c">
+    <g filter="url(#d)">
+      <path
+        d="m.38,2.6h15.36l-1.44,3.12h-1.4l2.03,4.68,4.03,9.36-4.14-3.12-2.68-6.24H3.76L.38,2.6Zm4.14,3.12l.68,1.56h5.59l-.68-1.56h-5.59Z"
+        fill="url(#f)"
+        stroke="#fdd01c"
+        stroke-miterlimit="10"
+        stroke-width=".5"
+      />
+      <polygon
+        points="28.73 1.73 24.82 19.65 25.46 20.91 23.55 24.6 21.63 20.91 22.27 19.65 18.36 1.73 17.55 .92 21.09 .29 23.55 10.91 26.01 .29 29.55 .92 28.73 1.73"
+        fill="url(#g)"
+        stroke="#fdd01c"
+        stroke-miterlimit="10"
+        stroke-width=".5"
+      />
+      <path
+        d="m43.34,10.39h-8.38l-2.68,6.24-4.14,3.12,4.03-9.36,2.03-4.68h-1.4l-1.44-3.12h15.36l-3.38,7.8Zm-6.36-4.68l-.68,1.56h5.59l.68-1.56h-5.59Z"
+        fill="url(#h)"
+        stroke="#fdd01c"
+        stroke-miterlimit="10"
+        stroke-width=".5"
+      />
+    </g>
+  </g>
+</svg>

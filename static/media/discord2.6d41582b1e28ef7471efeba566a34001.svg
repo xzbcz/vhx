@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1289.5" height="992.684" viewBox="0 0 1289.5 992.684">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fdd01c;
+        stroke-linejoin: round;
+        stroke-width: 16px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="76.25" y="226.656" width="1273.5" height="976.684" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="76.25" y="226.656" width="1273.5" height="976.684" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTI3My41IiBoZWlnaHQ9Ijk3Ni42ODQiIHZpZXdCb3g9IjAgMCAxMjczLjUgOTc2LjY4NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI2MzYuNzUiIHkxPSI5NzYuNjg0IiB4Mj0iNjM2Ljc1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzg1NzAwNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNjgzIiBzdG9wLWNvbG9yPSIjZmRkMDFjIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2ZkZDAxYyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iMTI3My41IiBoZWlnaHQ9Ijk3Ni42ODQiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-68.25 -218.656)" style="fill: ; filter: url(#filter)">
+    <path id="icon" class="cls-1" d="M1346.86,1036.4s-71.13,52.88-150.87,93.74c-83.12,42.58-174.99,73.2-174.99,73.2s-24.928-29.48-43.741-58.92a486.149,486.149,0,0,1-32.14-59.81l101.771-50.89-16.07-39.284s-70.52,32.914-149.98,50.884C800.5,1063.5,713,1064.96,713,1064.96s-87.5-1.46-167.84-19.64c-79.46-17.97-149.985-50.884-149.985-50.884l-16.07,39.284,101.776,50.89a486.149,486.149,0,0,1-32.14,59.81C429.928,1173.86,405,1203.34,405,1203.34s-91.864-30.62-174.983-73.2c-79.741-40.86-150.877-93.74-150.877-93.74S62.411,832.081,109.49,648.043C155.7,467.418,265.724,307.006,265.724,307.006s63.942-28.155,131.237-48.21c67.512-20.119,138.379-32.139,138.379-32.139a333.569,333.569,0,0,1,21.426,34.818A256.864,256.864,0,0,1,571.05,295.4s29.941-4.685,62.494-7.142c38-2.868,79.456-3.571,79.456-3.571s41.457,0.7,79.456,3.571c32.553,2.457,62.494,7.142,62.494,7.142a256.864,256.864,0,0,1,14.284-33.925,333.569,333.569,0,0,1,21.426-34.818s70.867,12.02,138.38,32.139c67.29,20.055,131.24,48.21,131.24,48.21s110.02,160.412,156.23,341.037C1363.59,832.081,1346.86,1036.4,1346.86,1036.4ZM505.432,646.257c-57.935,0-104.9,53.56-104.9,119.631s46.965,119.63,104.9,119.63,104.9-53.56,104.9-119.63S563.367,646.257,505.432,646.257Zm415.136,0c-57.935,0-104.9,53.56-104.9,119.631s46.965,119.63,104.9,119.63,104.9-53.56,104.9-119.63S978.5,646.257,920.568,646.257Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-68.25 -218.656)" xlink:href="#icon" style="stroke: #fdd01c; filter: none; fill: none"/>
+</svg>
